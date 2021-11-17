@@ -11,6 +11,16 @@ sites:
     url: https://downloads.openmicroscopy.org
   - name: OME documentation
     url: https://docs.openmicroscopy.org
+  - name: OME demo server
+    url: https://demo.openmicroscopy.org
+  - name: UoD SLS research OMERO instance
+    url: https://nightshade.openmicroscopy.org
+  - name: Public UoD research SLS OMERO instance
+    url: https://omero.lifesci.dundee.ac.uk
+  - name: Image Data Resource
+    url: http://idr.openmicroscopy.org
+  - name: OME XSD schemas
+    url: http://www.openmicroscopy.org/Schemas
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
