@@ -9,8 +9,16 @@ sites:
     url: https://openmicroscopy.org
   - name: OME website (legacy)
     url: https://www-legacy.openmicroscopy.org
-  - name: OME blog
+  - name: OME blog (redirected)
     url: https://blog.openmicroscopy.org
+  - name: OME NGFF
+    url: https://ngff.openmicroscopy.org
+  - name: OME forum (legacy)
+    url: https://phpbb.openmicroscopy.org
+  - name: OMERO figure static website (redirected)
+    url: https://figure.openmicroscopy.org
+  - name: OME help  (redirected)
+    url: https://help.openmicroscopy.org
   - name: OME artifactory
     url: https://artifacts.openmicroscopy.org
   - name: OME downloads
@@ -33,6 +41,8 @@ sites:
     url: https://trac.openmicroscopy.org
   - name: OME training server 2
     url: https://workshop.openmicroscopy.org
+  - name: OME Q&A
+    url: http://qa.openmicroscopy.org.uk/
   - name: OME GitHub
     url: https://github.com/ome
   - name: OME gate
