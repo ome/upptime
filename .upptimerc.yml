@@ -53,12 +53,10 @@ sites:
     check: "tcp-ping"
     url: $OME_GATE
     port: 443
-  - name: UoD SLS research OMERO
+  - name: UoD SLS research OMERO (authenticated)
     url: https://nightshade.openmicroscopy.org
   - name: UoD SLS research OMERO (public)
     url: https://omero.lifesci.dundee.ac.uk
-  - name: UoD teaching OMERO
-    url: https://learning.openmicroscopy.org
   - name: UoD teaching OMERO
     url: https://learning.openmicroscopy.org
   - name: IDR
