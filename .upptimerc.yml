@@ -13,14 +13,34 @@ sites:
     url: https://docs.openmicroscopy.org
   - name: OME demo server
     url: https://demo.openmicroscopy.org
-  - name: UoD SLS research OMERO instance
-    url: https://nightshade.openmicroscopy.org
-  - name: Public UoD research SLS OMERO instance
-    url: https://omero.lifesci.dundee.ac.uk
-  - name: Image Data Resource
-    url: http://idr.openmicroscopy.org
   - name: OME XSD schemas
     url: http://www.openmicroscopy.org/Schemas
+  - name: OME CI server (legacy)
+    url: https://ci.openmicroscopy.org
+  - name: OME CI server (merge)
+    url: https://merge-ci.openmicroscopy.org
+  - name: OME CI server (latest)
+    url: https://latest-ci.openmicroscopy.org
+  - name: OME GitHub
+    url: https://github.com/ome
+  - name: UoD SLS research OMERO
+    url: https://nightshade.openmicroscopy.org
+  - name: UoD SLS research OMERO (public)
+    url: https://omero.lifesci.dundee.ac.uk
+  - name: UoD teaching OMERO
+    url: https://learning.openmicroscopy.org
+  - name: IDR
+    url: https://idr.openmicroscopy.org
+  - name: ITR
+    url: https://itr.openmicroscopy.org
+  - name: IDR API
+    url: https://idr.openmicroscopy.org/about/api.html
+  - name: IDR submission
+    url: https://idr.openmicroscopy.org/about/submission.html
+  - name: IDR Analysis
+    url: https://idr-analysis.openmicroscopy.org
+  - name: IDR Jupyter
+    url: https://idr.openmicroscopy.org/jupyter
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,7 +50,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ome/www.openmicroscopy.org/master/img/logos/ome.svg
   name: OME status
   introTitle: "Welcome to the status page of OME services"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Contact OME on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/openmicroscopy) to report issues
   navbar:
     - title: Status
       href: /
