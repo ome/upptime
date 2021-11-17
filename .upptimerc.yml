@@ -35,6 +35,14 @@ sites:
     url: https://workshop.openmicroscopy.org
   - name: OME GitHub
     url: https://github.com/ome
+  - name: OME gate
+    check: "tcp-ping"
+    url: $OME_GATE
+    port: 22
+  - name: OME gate
+    check: "tcp-ping"
+    url: $OME_GATE
+    port: 443
   - name: UoD SLS research OMERO
     url: https://nightshade.openmicroscopy.org
   - name: UoD SLS research OMERO (public)
