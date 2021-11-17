@@ -6,7 +6,7 @@ sites:
   - name: OME website
     url: https://www.openmicroscopy.org
   - name: OME artifactory
-    url: https://artifactory.openmicroscopy.org
+    url: https://artifacts.openmicroscopy.org
   - name: OME downloads
     url: https://downloads.openmicroscopy.org
   - name: OME documentation
