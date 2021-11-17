@@ -45,11 +45,11 @@ sites:
     url: http://qa.openmicroscopy.org.uk/
   - name: OME GitHub
     url: https://github.com/ome
-  - name: OME gate
+  - name: OME gate (22)
     check: "tcp-ping"
     url: $OME_GATE
     port: 22
-  - name: OME gate
+  - name: OME gate (443)
     check: "tcp-ping"
     url: $OME_GATE
     port: 443
