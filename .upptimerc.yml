@@ -43,8 +43,9 @@ sites:
     url: https://outreach.openmicroscopy.org
   - name: OME issue tracking system (legacy)
     url: https://trac.openmicroscopy.org
-  - name: OME trac OMERO API (redirected)
-    url: https://trac.openmicroscopy.org.uk/ome/wiki/OmeroApi
+  # Number of redirects hit maximum amount
+  # - name: OME trac OMERO API (redirected)
+  #   url: https://trac.openmicroscopy.org.uk/ome/wiki/OmeroApi
   - name: OME file formats (redirected)
     url: http://www.openmicroscopy.org/site/support/file-formats
   - name: OME units documentation (redirected)
@@ -173,9 +174,10 @@ sites:
     url: https://idr.openmicroscopy.org/webclient/?show=well-592371
   - name: IDR notebooks (GitHub)
     url: https://github.com/IDR/idr-notebooks
-  - name: IDR metadat (GitHub)
+  - name: IDR metadata (GitHub)
     url: https://github.com/IDR/idr-metadata
-
+  - name: IDR tracking system
+    url: $IDR_REDMINE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
