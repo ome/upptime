@@ -65,6 +65,14 @@ sites:
     port: 443
   - name: UoD SLS OMERO (authenticated)
     url: https://nightshade.openmicroscopy.org
+  - name: UoD SLS OMERO (4063)
+    check: "tcp-ping"
+    url: nightshade.openmicroscopy.org
+    port: 4063
+  - name: UoD SLS OMERO (4064)
+    check: "tcp-ping"
+    url: nightshade.openmicroscopy.org
+    port: 4064
   - name: UoD SLS OMERO (public)
     url: https://omero.lifesci.dundee.ac.uk
   - name: UoD SLS OMERO (image 3925540 - render_thumbnail)
