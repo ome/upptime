@@ -86,98 +86,6 @@ sites:
     url: http://dx.doi.org/10.17867/10000109
   - name: UoD teaching OMERO
     url: https://learning.openmicroscopy.org
-  - name: IDR
-    url: https://idr.openmicroscopy.org
-  - name: IDR FTP
-    check: "tcp-ping"
-    url: idr-ftp.openmicroscopy.org
-    port: 21
-  - name: ITR
-    url: https://itr.openmicroscopy.org
-  - name: IDR API
-    url: https://idr.openmicroscopy.org/about/api.html
-  - name: IDR submission
-    url: https://idr.openmicroscopy.org/about/submission.html
-  - name: IDR Analysis
-    url: https://idr-analysis.openmicroscopy.org
-  - name: IDR Jupyter
-    url: https://idr.openmicroscopy.org/jupyter
-  - name: IDR (well 590686)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-590686
-  - name: IDR (well 119093)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-119093
-  - name: IDR (well 4852)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-4852
-  - name: IDR (well 469267)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-469267
-  - name: IDR (well 547609)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-547609
-  - name: IDR (image 820684)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-820684
-  - name: IDR (well 37472)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-37472
-  - name: IDR (well 45407)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-45407
-  - name: IDR (image 648950)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-648950
-  - name: IDR (image 3063667)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-3063667
-  - name: IDR (image 2849866)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-2849866
-  - name: IDR (image 1821818)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-1821818
-  - name: IDR (image 1636543)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-1636543
-  - name: IDR (well 1056578)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-1056578
-  - name: IDR (well 1029401)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-1029401
-  - name: IDR (well 1046336)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-1046336
-  - name: IDR (dataset 369)
-    url: https://idr.openmicroscopy.org/webclient/?show=dataset-369
-  - name: IDR (well 1024671)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-1024671
-  - name: IDR (well 1030579)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-1030579
-  - name: IDR (dataset 51)
-    url: https://idr.openmicroscopy.org/webclient/?show=dataset-51
-  - name: IDR (dataset 61)
-    url: https://idr.openmicroscopy.org/webclient/?show=dataset-61
-  - name: IDR 2858266
-    url: https://idr.openmicroscopy.org/webclient/?show=image-2858266
-  - name: IDR (image 2895051)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-2895051
-  - name: IDR (image 3125776)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-3125776
-  - name: IDR (phenotype CMPO_0000393)
-    url: https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000393
-  - name: IDR (phenotype CMPO_0000118)
-    url: https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000118
-  - name: IDR (phenotype CMPO_0000140)
-    url: https://idr.openmicroscopy.org/mapr/phenotype/?value=CMPO_0000140
-  - name: IDR (gene SGOL1)
-    url: https://idr.openmicroscopy.org/mapr/gene/?value=SGOL1
-  - name: IDR (gene Car4)
-    url: https://idr.openmicroscopy.org/mapr/gene/?value=Car4
-  - name: IDR (dataset 153)
-    url: https://idr.openmicroscopy.org/webclient/?show=dataset-153
-  - name: IDR (image 1918940)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-1918940
-  - name: IDR (image 1918953)
-    url: https://idr.openmicroscopy.org/webclient/?show=image-1918953
-  - name: IDR (well 828419)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-828419
-  - name: IDR (mineotaur)
-    url: https://idr.openmicroscopy.org/mineotaur/
-  - name: IDR (well 592371)
-    url: https://idr.openmicroscopy.org/webclient/?show=well-592371
-  - name: IDR notebooks (GitHub)
-    url: https://github.com/IDR/idr-notebooks
-  - name: IDR metadata (GitHub)
-    url: https://github.com/IDR/idr-metadata
-  - name: IDR tracking system
-    url: $IDR_REDMINE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -189,8 +97,10 @@ status-website:
   introTitle: "Welcome to the status page of OME services"
   introMessage: Contact OME on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/openmicroscopy) to report issues
   navbar:
-    - title: Status
+    - title: OME Status
       href: /upptime
+    - title: IDR Status
+      href: https://idr.github.io/upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
