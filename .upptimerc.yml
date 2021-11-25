@@ -97,8 +97,6 @@ status-website:
   introTitle: "Welcome to the status page of OME services"
   introMessage: Contact OME on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/openmicroscopy) to report issues
   navbar:
-    - title: OME Status
-      href: /upptime
     - title: IDR Status
       href: https://idr.github.io/upptime
     - title: GitHub
