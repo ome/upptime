@@ -95,7 +95,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ome/www.openmicroscopy.org/master/img/logos/ome.svg
   name: OME status
   introTitle: "Welcome to the status page of OME services"
-  introMessage: Contact OME on the [image.sc](https://forum.image.sc/) forum or [Twitter](https://twitter.com/openmicroscopy) to report issues
+  introMessage: Contact OME on the [image.sc](https://forum.image.sc/tag/ome) forum or [Twitter](https://twitter.com/openmicroscopy) to report issues
   navbar:
     - title: IDR Status
       href: https://idr.github.io/upptime
