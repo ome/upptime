@@ -54,8 +54,6 @@ sites:
     url: https://workshop.openmicroscopy.org
   - name: OME Q&A
     url: http://qa.openmicroscopy.org.uk/
-  - name: OME GitHub
-    url: https://github.com/ome
   - name: OME gate (22)
     check: "tcp-ping"
     url: $OME_GATE
@@ -99,7 +97,9 @@ status-website:
   navbar:
     - title: IDR Status
       href: https://idr.github.io/upptime
-    - title: GitHub
+    - title: GitHub Status
+      href: https://www.githubstatus.com/
+    - title: GitHub repository
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
