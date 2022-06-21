@@ -1,7 +1,7 @@
 url: http://dx.doi.org/10.17867/10000109
-status: up
-code: 200
-responseTime: 3138
-lastUpdated: 2022-06-20T23:06:51.904Z
+status: down
+code: 500
+responseTime: 194
+lastUpdated: 2022-06-21T06:36:00.901Z
 startTime: Wed Nov 24 2021 14:34:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
