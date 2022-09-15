@@ -102,19 +102,19 @@
     "url": "https://blog.openmicroscopy.org",
     "icon": "https://favicons.githubusercontent.com/blog.openmicroscopy.org",
     "slug": "ome-blog-redirected",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 322,
-    "timeWeek": 283,
-    "timeMonth": 237,
+    "timeDay": 266,
+    "timeWeek": 269,
+    "timeMonth": 234,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-09-15": 49
+      "2022-09-15": 61
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://ngff.openmicroscopy.org",
     "icon": "https://favicons.githubusercontent.com/ngff.openmicroscopy.org",
     "slug": "ome-ngff",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 158,
-    "timeWeek": 228,
-    "timeMonth": 231,
+    "timeDay": 172,
+    "timeWeek": 225,
+    "timeMonth": 230,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-09-15": 49
+      "2022-09-15": 61
     }
   },
   {
@@ -176,19 +176,19 @@
     "url": "https://figure.openmicroscopy.org",
     "icon": "https://favicons.githubusercontent.com/figure.openmicroscopy.org",
     "slug": "omero-figure-static-website-redirected",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 92,
-    "timeWeek": 163,
-    "timeMonth": 212,
+    "timeDay": 108,
+    "timeWeek": 161,
+    "timeMonth": 210,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-09-15": 49
+      "2022-09-15": 61
     }
   },
   {
@@ -196,19 +196,19 @@
     "url": "https://help.openmicroscopy.org",
     "icon": "https://favicons.githubusercontent.com/help.openmicroscopy.org",
     "slug": "ome-help-redirected",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 159,
-    "timeWeek": 168,
+    "timeDay": 168,
+    "timeWeek": 170,
     "timeMonth": 195,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2022-09-15": 49
+      "2022-09-15": 61
     }
   },
   {
