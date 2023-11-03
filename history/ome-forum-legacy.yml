@@ -1,7 +1,7 @@
 url: https://phpbb.openmicroscopy.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-03T08:50:12.815Z
+status: up
+code: 200
+responseTime: 1232
+lastUpdated: 2023-11-03T09:19:47.751Z
 startTime: 2021-11-17T12:48:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
