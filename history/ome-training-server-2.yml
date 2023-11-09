@@ -1,7 +1,7 @@
 url: https://workshop.openmicroscopy.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-09T01:18:28.794Z
+status: up
+code: 200
+responseTime: 760
+lastUpdated: 2023-11-09T02:04:17.439Z
 startTime: 2021-11-17T11:55:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
