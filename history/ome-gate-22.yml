@@ -1,7 +1,7 @@
 url: $OME_GATE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-15T13:46:25.197Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2024-01-15T14:02:08.521Z
 startTime: 2021-11-17T13:33:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
