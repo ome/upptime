@@ -84,6 +84,16 @@ sites:
     url: http://dx.doi.org/10.17867/10000109
   - name: UoD teaching OMERO
     url: https://learning.openmicroscopy.org
+  - name: UGM OMERO
+    url: https://ugm.openmicroscopy.org
+  - name: UGM OMERO (4063)
+    check: "tcp-ping"
+    url: ugm.openmicroscopy.org
+    port: 4063
+  - name: UGM OMERO (4064)
+    check: "tcp-ping"
+    url: ugm.openmicroscopy.org
+    port: 4064
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
