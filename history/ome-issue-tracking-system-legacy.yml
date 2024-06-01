@@ -1,7 +1,7 @@
 url: https://trac.openmicroscopy.org
-status: down
-code: 500
-responseTime: 1252
-lastUpdated: 2024-06-01T20:35:13.980Z
+status: up
+code: 200
+responseTime: 870
+lastUpdated: 2024-06-01T20:47:28.594Z
 startTime: 2021-11-17T11:55:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
