@@ -1,7 +1,7 @@
 url: https://www-legacy.openmicroscopy.org
 status: down
-code: 500
-responseTime: 837
-lastUpdated: 2024-06-23T23:07:22.412Z
+code: 503
+responseTime: 1077
+lastUpdated: 2024-06-24T23:08:20.201Z
 startTime: 2021-11-17T11:54:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
