@@ -1,7 +1,7 @@
 url: https://omero.lifesci.dundee.ac.uk
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-13T08:32:58.711Z
+status: up
+code: 200
+responseTime: 7885
+lastUpdated: 2024-08-13T08:50:08.439Z
 startTime: 2021-11-24T14:34:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
