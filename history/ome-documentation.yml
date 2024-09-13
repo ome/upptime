@@ -1,7 +1,7 @@
 url: https://docs.openmicroscopy.org
-status: down
-code: 403
+status: up
+code: 200
 responseTime: 394
-lastUpdated: 2024-09-13T10:20:53.013Z
+lastUpdated: 2024-09-13T10:39:00.644Z
 startTime: 2021-11-17T11:04:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
