@@ -1,7 +1,7 @@
 url: https://artifacts.openmicroscopy.org
-status: down
-code: 503
-responseTime: 2438
-lastUpdated: 2024-10-26T04:14:15.456Z
+status: up
+code: 200
+responseTime: 764
+lastUpdated: 2024-10-26T04:36:12.824Z
 startTime: 2021-11-17T11:04:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
