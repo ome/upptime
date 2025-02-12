@@ -839,7 +839,7 @@
     "uptimeDay": "97.06%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "94.20%",
-    "uptimeYear": "71.46%",
+    "uptimeYear": "71.48%",
     "time": 884,
     "timeDay": 925,
     "timeWeek": 957,
@@ -951,8 +951,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -1117,7 +1116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.openmicroscopy.org.ico",
     "slug": "ome-units-documentation-redirected",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.93%",
