@@ -1,7 +1,7 @@
 url: https://merge-ci.openmicroscopy.org/jenkins
-status: up
-code: 200
-responseTime: 268
-lastUpdated: 2025-03-24T23:08:31.599Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2025-03-25T22:17:27.235Z
 startTime: 2021-11-17T11:37:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
