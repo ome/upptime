@@ -1,7 +1,7 @@
 url: nightshade.openmicroscopy.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-22T05:03:14.261Z
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2025-07-22T05:39:12.300Z
 startTime: 2021-11-24T20:15:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
