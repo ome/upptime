@@ -833,19 +833,19 @@
     "url": "http://qa.openmicroscopy.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/qa.openmicroscopy.org.uk.ico",
     "slug": "ome-q-and-a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.15%",
     "time": 1146,
-    "timeDay": 2549,
-    "timeWeek": 1981,
-    "timeMonth": 1502,
-    "timeYear": 1260,
+    "timeDay": 2290,
+    "timeWeek": 1948,
+    "timeMonth": 1488,
+    "timeYear": 1259,
     "dailyMinutesDown": {
-      "2025-09-13": 40,
+      "2025-09-13": 44,
       "2025-09-12": 111,
       "2025-09-11": 209,
       "2025-09-10": 49,
@@ -896,7 +896,7 @@
       "2025-04-08": 35,
       "2025-04-06": 179,
       "2025-04-05": 32,
-      "2025-04-04": 80
+      "2025-04-04": 59
     }
   },
   {
