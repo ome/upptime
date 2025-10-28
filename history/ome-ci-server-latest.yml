@@ -1,7 +1,7 @@
 url: https://latest-ci.openmicroscopy.org/jenkins
-status: down
-code: 502
-responseTime: 788
-lastUpdated: 2025-10-28T22:18:23.848Z
+status: up
+code: 200
+responseTime: 1173
+lastUpdated: 2025-10-28T23:09:00.646Z
 startTime: 2021-11-17T11:37:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
