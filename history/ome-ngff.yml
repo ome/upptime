@@ -1,7 +1,7 @@
 url: https://ngff.openmicroscopy.org
-status: down
-code: 500
-responseTime: 156
-lastUpdated: 2025-12-05T08:56:06.087Z
+status: up
+code: 200
+responseTime: 367
+lastUpdated: 2025-12-05T09:29:24.557Z
 startTime: 2021-11-17T12:48:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
