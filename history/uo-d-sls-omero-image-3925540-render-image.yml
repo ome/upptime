@@ -1,7 +1,7 @@
 url: https://omero.lifesci.dundee.ac.uk/webgateway/render_image/3925540/3/5/
-status: down
-code: 502
-responseTime: 120
-lastUpdated: 2025-12-09T07:03:52.543Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2025-12-09T07:34:48.066Z
 startTime: 2021-11-24T14:34:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
