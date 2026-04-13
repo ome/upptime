@@ -98,19 +98,19 @@
     "url": "https://blog.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.openmicroscopy.org.ico",
     "slug": "ome-blog-redirected",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 247,
-    "timeDay": 110,
-    "timeWeek": 163,
-    "timeMonth": 198,
+    "timeDay": 149,
+    "timeWeek": 171,
+    "timeMonth": 199,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2026-04-13": 3
+      "2026-04-13": 59
     }
   },
   {
@@ -200,19 +200,19 @@
     "url": "https://help.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/help.openmicroscopy.org.ico",
     "slug": "ome-help-redirected",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 158,
-    "timeWeek": 177,
-    "timeMonth": 167,
+    "timeDay": 182,
+    "timeWeek": 184,
+    "timeMonth": 169,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-04-13": 4
+      "2026-04-13": 59
     }
   },
   {
