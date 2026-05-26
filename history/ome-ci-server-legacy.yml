@@ -1,7 +1,7 @@
 url: https://ci.openmicroscopy.org
-status: down
-code: 502
-responseTime: 1002
-lastUpdated: 2026-05-26T21:22:05.774Z
+status: up
+code: 200
+responseTime: 1406
+lastUpdated: 2026-05-26T22:46:32.262Z
 startTime: 2021-11-17T11:37:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
