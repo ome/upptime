@@ -438,17 +438,17 @@
     "url": "https://ci.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "87.17%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "87.15%",
     "uptimeYear": "97.64%",
-    "time": 1557,
-    "timeDay": 2186,
-    "timeWeek": 1832,
-    "timeMonth": 1830,
-    "timeYear": 1576,
+    "time": 1556,
+    "timeDay": 1594,
+    "timeWeek": 1749,
+    "timeMonth": 1810,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2025-05-27": 54,
       "2025-06-03": 77,
@@ -514,7 +514,8 @@
       "2026-05-02": 1440,
       "2026-05-01": 502,
       "2026-05-12": 67,
-      "2026-05-19": 67
+      "2026-05-19": 67,
+      "2026-05-26": 10
     }
   },
   {
@@ -522,16 +523,16 @@
     "url": "https://merge-ci.openmicroscopy.org/jenkins",
     "icon": "https://icons.duckduckgo.com/ip3/merge-ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-merge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "87.17%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "87.15%",
     "uptimeYear": "97.64%",
-    "time": 390,
-    "timeDay": 1674,
-    "timeWeek": 1298,
-    "timeMonth": 868,
+    "time": 391,
+    "timeDay": 1173,
+    "timeWeek": 1236,
+    "timeMonth": 863,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-05-27": 54,
@@ -598,7 +599,8 @@
       "2026-05-02": 1440,
       "2026-05-01": 502,
       "2026-05-12": 67,
-      "2026-05-19": 67
+      "2026-05-19": 67,
+      "2026-05-26": 10
     }
   },
   {
@@ -606,16 +608,16 @@
     "url": "https://latest-ci.openmicroscopy.org/jenkins",
     "icon": "https://icons.duckduckgo.com/ip3/latest-ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-latest",
-    "status": "up",
+    "status": "down",
     "uptime": "90.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "87.17%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "87.15%",
     "uptimeYear": "97.64%",
     "time": 930,
-    "timeDay": 2097,
-    "timeWeek": 1739,
-    "timeMonth": 1384,
+    "timeDay": 1542,
+    "timeWeek": 1664,
+    "timeMonth": 1375,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2025-05-27": 54,
@@ -682,7 +684,8 @@
       "2026-05-02": 1440,
       "2026-05-01": 502,
       "2026-05-12": 66,
-      "2026-05-19": 67
+      "2026-05-19": 67,
+      "2026-05-26": 10
     }
   },
   {
@@ -839,7 +842,7 @@
     "timeDay": 4726,
     "timeWeek": 3301,
     "timeMonth": 1632,
-    "timeYear": 1313,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-10-30": 32,
       "2025-10-31": 25,
