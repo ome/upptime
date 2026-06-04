@@ -436,7 +436,7 @@
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "97.63%",
     "time": 1560,
     "timeDay": 2226,
@@ -520,7 +520,7 @@
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "97.63%",
     "time": 409,
     "timeDay": 1735,
@@ -601,10 +601,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/latest-ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-latest",
     "status": "up",
-    "uptime": "91.02%",
+    "uptime": "91.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "97.63%",
     "time": 957,
     "timeDay": 2319,
@@ -829,7 +829,7 @@
     "timeDay": 631,
     "timeWeek": 989,
     "timeMonth": 1989,
-    "timeYear": 1318,
+    "timeYear": 1319,
     "dailyMinutesDown": {
       "2025-10-30": 32,
       "2025-10-31": 25,
@@ -1015,13 +1015,13 @@
     "url": "https://omero.lifesci.dundee.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/omero.lifesci.dundee.ac.uk.ico",
     "slug": "uo-d-sls-omero-public",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
-    "time": 6454,
+    "time": 6453,
     "timeDay": 11983,
     "timeWeek": 10387,
     "timeMonth": 9542,
@@ -1034,7 +1034,8 @@
       "2025-12-02": 30,
       "2025-12-09": 31,
       "2026-03-21": 116,
-      "2026-05-01": 91
+      "2026-05-01": 91,
+      "2026-06-04": 3
     }
   },
   {
@@ -1042,13 +1043,13 @@
     "url": "https://omero.lifesci.dundee.ac.uk/webgateway/render_thumbnail/3925540/",
     "icon": "https://icons.duckduckgo.com/ip3/omero.lifesci.dundee.ac.uk.ico",
     "slug": "uo-d-sls-omero-image-3925540-render-thumbnail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.69%",
-    "time": 819,
+    "time": 818,
     "timeDay": 5623,
     "timeWeek": 4292,
     "timeMonth": 2544,
@@ -1077,7 +1078,8 @@
       "2026-03-01": 82,
       "2026-02-28": 6,
       "2026-03-21": 116,
-      "2026-05-01": 91
+      "2026-05-01": 91,
+      "2026-06-04": 3
     }
   },
   {
@@ -1085,11 +1087,11 @@
     "url": "https://omero.lifesci.dundee.ac.uk/webgateway/render_image/3925540/3/5/",
     "icon": "https://icons.duckduckgo.com/ip3/omero.lifesci.dundee.ac.uk.ico",
     "slug": "uo-d-sls-omero-image-3925540-render-image",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.81%",
     "time": 678,
     "timeDay": 1286,
@@ -1114,7 +1116,8 @@
       "2025-12-20": 94,
       "2025-12-24": 39,
       "2026-03-21": 115,
-      "2026-05-01": 91
+      "2026-05-01": 91,
+      "2026-06-04": 2
     }
   },
   {
@@ -1122,13 +1125,13 @@
     "url": "https://omero.lifesci.dundee.ac.uk/webgateway/img_detail/3925540/",
     "icon": "https://icons.duckduckgo.com/ip3/omero.lifesci.dundee.ac.uk.ico",
     "slug": "uo-d-sls-omero-image-3925540-img-detail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
-    "time": 585,
+    "time": 586,
     "timeDay": 937,
     "timeWeek": 1747,
     "timeMonth": 2647,
@@ -1138,7 +1141,8 @@
       "2025-09-03": 82,
       "2025-12-02": 30,
       "2026-03-21": 115,
-      "2026-05-01": 91
+      "2026-05-01": 91,
+      "2026-06-04": 2
     }
   },
   {
@@ -1146,10 +1150,10 @@
     "url": "http://dx.doi.org/10.17867/10000109",
     "icon": "https://icons.duckduckgo.com/ip3/dx.doi.org.ico",
     "slug": "uo-d-sls-omero-10-17867-10000109",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 2654,
@@ -1162,7 +1166,8 @@
       "2025-09-04": 164,
       "2025-09-03": 81,
       "2025-11-18": 126,
-      "2026-03-21": 115
+      "2026-03-21": 115,
+      "2026-06-04": 2
     }
   },
   {
