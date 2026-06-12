@@ -1,7 +1,7 @@
 url: https://figure.openmicroscopy.org
-status: down
-code: 404
-responseTime: 57
-lastUpdated: 2026-06-12T17:51:44.861Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2026-06-12T20:04:00.000Z
 startTime: 2021-11-17T12:48:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
