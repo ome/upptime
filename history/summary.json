@@ -921,46 +921,6 @@
     }
   },
   {
-    "name": "OME gate (22)",
-    "url": "$OME_GATE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ome-gate-22",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "40.21%",
-    "uptimeWeek": "40.21%",
-    "uptimeMonth": "40.21%",
-    "uptimeYear": "40.21%",
-    "time": 112,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-06-30": 6
-    }
-  },
-  {
-    "name": "OME gate (443)",
-    "url": "$OME_GATE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ome-gate-443",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "67.56%",
-    "uptimeWeek": "67.56%",
-    "uptimeMonth": "67.56%",
-    "uptimeYear": "67.56%",
-    "time": 112,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-06-30": 2
-    }
-  },
-  {
     "name": "UoD SLS OMERO (authenticated)",
     "url": "https://nightshade.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/nightshade.openmicroscopy.org.ico",
