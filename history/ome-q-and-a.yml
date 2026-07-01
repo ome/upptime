@@ -1,7 +1,7 @@
 url: http://qa.openmicroscopy.org.uk/
-status: down
-code: 503
-responseTime: 403
-lastUpdated: 2026-07-01T13:54:10.575Z
+status: up
+code: 200
+responseTime: 703
+lastUpdated: 2026-07-01T16:26:28.252Z
 startTime: 2021-11-17T12:49:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
