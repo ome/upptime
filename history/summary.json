@@ -440,15 +440,15 @@
     "url": "https://ci.openmicroscopy.org",
     "icon": "https://icons.duckduckgo.com/ip3/ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "92.43%",
     "time": 1587,
     "timeDay": 1336,
-    "timeWeek": 1754,
+    "timeWeek": 1849,
     "timeMonth": 1697,
     "timeYear": 1596,
     "dailyMinutesDown": {
@@ -530,7 +530,8 @@
       "2026-07-21": 70,
       "2026-07-28": 129,
       "2026-07-29": 131,
-      "2026-08-11": 57
+      "2026-08-11": 57,
+      "2026-08-18": 29
     }
   },
   {
@@ -538,15 +539,15 @@
     "url": "https://merge-ci.openmicroscopy.org/jenkins",
     "icon": "https://icons.duckduckgo.com/ip3/merge-ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-merge",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "92.43%",
     "time": 509,
     "timeDay": 942,
-    "timeWeek": 1280,
+    "timeWeek": 1360,
     "timeMonth": 1196,
     "timeYear": 563,
     "dailyMinutesDown": {
@@ -628,7 +629,8 @@
       "2026-07-21": 70,
       "2026-07-28": 129,
       "2026-07-29": 131,
-      "2026-08-11": 57
+      "2026-08-11": 57,
+      "2026-08-18": 19
     }
   },
   {
@@ -636,15 +638,15 @@
     "url": "https://latest-ci.openmicroscopy.org/jenkins",
     "icon": "https://icons.duckduckgo.com/ip3/latest-ci.openmicroscopy.org.ico",
     "slug": "ome-ci-server-latest",
-    "status": "up",
+    "status": "down",
     "uptime": "90.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "92.44%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "92.43%",
     "time": 1061,
     "timeDay": 1401,
-    "timeWeek": 1708,
+    "timeWeek": 1796,
     "timeMonth": 1615,
     "timeYear": 1118,
     "dailyMinutesDown": {
@@ -726,7 +728,8 @@
       "2026-07-21": 70,
       "2026-07-28": 129,
       "2026-07-29": 131,
-      "2026-08-11": 57
+      "2026-08-11": 57,
+      "2026-08-18": 10
     }
   },
   {
@@ -817,7 +820,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.openmicroscopy.org.ico",
     "slug": "ome-units-documentation-redirected",
     "status": "up",
-    "uptime": "97.62%",
+    "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
